@@ -1,0 +1,5 @@
+{
+  "header.title": "Добро пожаловать в Фамко Индустрию",
+  "main.title": "Сайт находится в разработке",
+  "price": "{value, number, currency}"
+}

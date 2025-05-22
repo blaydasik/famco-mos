@@ -1,0 +1,5 @@
+{
+  "header.title": "Welcome to Famco Industry",
+  "main.title": "The site is under development",
+  "price": "{value, number, currency}"
+}
